@@ -1,0 +1,19 @@
+h1{
+    font-size: 20px;
+    color: orange;
+    text-decoration: double underline;
+    border: black 3px;
+    height: auto;
+
+}
+
+h2{
+    font-size: 18px;
+    color: coral;
+    text-decoration: underline;
+}
+
+p{
+    color: blue;
+    font-size: larger;
+}
