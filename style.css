@@ -12,3 +12,8 @@ h2{
     color: coral;
     text-decoration: underline;
 }
+
+p{
+    color: blue;
+    font-size: larger;
+}
